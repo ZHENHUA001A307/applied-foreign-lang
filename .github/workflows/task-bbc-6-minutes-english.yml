@@ -32,6 +32,8 @@ jobs:
           import os, csv, datetime, re
           import xml.etree.ElementTree as ET
 
+          repo_name = os.environ.get('GITHUB_REPOSITORY', 'unknown/repo')
+
           LANG_CN = os.getenv('LANG_CN', '语言')
           INPUT_FILE = os.getenv('INPUT_FILE', '')
           PROGRESS_FILE = os.getenv('PROGRESS_FILE', '')
@@ -96,7 +98,7 @@ jobs:
           <rss version="2.0">
           <channel>
           <title>AI 语言学习推送源</title>
-          <link>https://github.com/${{GITHUB_REPOSITORY}}</link>
+          <link>https://github.com/{repo_name}</link>
           <description>由 DeepSeek 驱动的自动化语言学习 RSS 推送</description>
           <lastBuildDate>{pub}</lastBuildDate>
           {chr(10).join(final)}
