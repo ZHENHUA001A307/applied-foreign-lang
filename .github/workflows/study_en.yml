@@ -3,7 +3,7 @@ name: Study English Feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 3'
+    - cron: '0 0 1 1 *'
 
 permissions:
   contents: write
@@ -13,10 +13,10 @@ env:
   INPUT_FILE: "corpus/input_en.csv"
   PROGRESS_FILE: "progress/last_index_en.txt"
   PROMPT_FILE: "prompts/en_prompt.json"
-  SLICE_MODE: "by_count"   # 可选: by_topic(默认) 或 by_count
+  SLICE_MODE: "by_count"
   BATCH_SIZE: 15           # by_count 模式生效，按这个条数切片
   READING_SPEED: 150
-  MODEL_NAME: "deepseek-v4-pro"  # 或者是 "deepseek-v4-flash"
+  MODEL_NAME: "deepseek-v4-pro"
   API_URL: "https://api.deepseek.com/chat/completions"
 
 jobs:
