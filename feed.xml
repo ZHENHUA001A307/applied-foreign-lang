@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-<title>AI 语言学习推送源</title>
-<link>https://github.com/ZHENHUA001A307/applied-foreign-lang</link>
-<description>由 DeepSeek 驱动的自动化语言学习 RSS 推送</description>
-<lastBuildDate>Thu, 05 Nov 2026 05:06:31 +0000</lastBuildDate>
+    <title>AI 语言学习推送源</title>
+    <link>https://github.com</link>
+    <description>由 DeepSeek 驱动的自动化语言学习 RSS 推送</description>
+    <item>
+        <title>[英语] Inside the mind of the consumer - 2026-11-05 06:04</title>
+        <description><![CDATA[<p>⏱ 预计阅读时间：34 分钟 (1683 字符)</p>
+<table border='1' cellspacing='0' style='border-collapse: collapse; width: 100%;'>
+<tr><th style='border: 1px solid #aaa; padding: 6px;'>原文</th><th style='border: 1px solid #aaa; padding: 6px;'>翻译参考</th><th style='border: 1px solid #aaa; padding: 6px;'>词汇</th><th style='border: 1px solid #aaa; padding: 6px;'>表达讲解</th></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>The idea remained in obscurity until 2001, when BrightHouse, a marketing consultancy based in Atlanta, Georgia, set up a dedicated neuromarketing arm, BrightHouse Neurostrategies Group.</td><td style='border: 1px solid #aaa; padding: 6px;'>这个想法一直默默无闻，直到2001年，总部位于佐治亚州亚特兰大的营销咨询公司 BrightHouse 成立了一个专门的神经营销部门——BrightHouse 神经战略集团。</td><td style='border: 1px solid #aaa; padding: 6px;'>obscurity：默默无闻；晦涩<br>marketing consultancy：营销咨询公司<br>based in：总部位于<br>set up：成立，建立<br>dedicated：专门的，专注的<br>neuromarketing：神经营销<br>arm：部门，分支机构</td><td style='border: 1px solid #aaa; padding: 6px;'>remained in obscurity 是系表结构，remain 后接介词短语表示保持状态；until 2001 为时间状语；when 引导非限制性定语从句修饰 2001；a marketing consultancy based in Atlanta, Georgia 是 BrightHouse 的同位语，其中 based in... 为过去分词短语作后置定语。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>(BrightHouse lists Coca-Cola, Delta Airlines and Home Depot among its clients.)</td><td style='border: 1px solid #aaa; padding: 6px;'>（BrightHouse 将可口可乐、达美航空和家得宝列为其客户。）</td><td style='border: 1px solid #aaa; padding: 6px;'>list：把……列入，列举<br>among its clients：在其客户中<br>client：客户</td><td style='border: 1px solid #aaa; padding: 6px;'>括号内容起补充说明作用；list... among... 表示“把……列为……之一”，list 在这里是及物动词，后接宾语。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>But the company's name may itself simply be an example of clever marketing.</td><td style='border: 1px solid #aaa; padding: 6px;'>但该公司的名称本身可能不过是聪明营销的一个例子。</td><td style='border: 1px solid #aaa; padding: 6px;'>itself：本身（强调）<br>simply：仅仅，只是<br>clever marketing：巧妙的营销</td><td style='border: 1px solid #aaa; padding: 6px;'>may itself simply be 中 itself 是反身代词，作同位语强调“名称本身”；simply 为副词修饰 be，表示“仅仅是”；an example of 是固定搭配。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>BrightHouse does not scan people while showing them specific products or campaign ideas, but bases its work on the results of more general fMRI-based research into consumer preferences and decision-making carried out at Emory University in Atlanta.</td><td style='border: 1px solid #aaa; padding: 6px;'>BrightHouse 并不是在向人们展示特定产品或广告创意时对他们进行扫描，而是基于在亚特兰大埃默里大学进行的、关于消费者偏好和决策的、更一般性的功能性磁共振成像研究结果来开展工作。</td><td style='border: 1px solid #aaa; padding: 6px;'>scan：扫描<br>specific：具体的，特定的<br>campaign ideas：广告/营销活动创意<br>base... on...：以……为基础<br>fMRI-based：基于功能性磁共振成像的<br>consumer preferences：消费者偏好<br>decision-making：决策<br>carried out：进行，执行</td><td style='border: 1px solid #aaa; padding: 6px;'>主句为 does not scan... but bases...，并列谓语；while showing them specific products... 是“连词+现在分词”作时间状语，省略了主语和 be 动词；carried out at Emory University in Atlanta 是过去分词短语后置定语，修饰 research；句中含有较长的后置定语，需注意断句。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>Can brain scanning really be applied to marketing?</td><td style='border: 1px solid #aaa; padding: 6px;'>脑部扫描真的能应用于营销吗？</td><td style='border: 1px solid #aaa; padding: 6px;'>brain scanning：脑部扫描<br>be applied to：被应用于<br>marketing：营销</td><td style='border: 1px solid #aaa; padding: 6px;'>一般疑问句，情态动词 can 开头；be applied to 为被动语态，to 是介词，后接名词/动名词。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>The basic principle is not that different from focus groups and other traditional forms of market research.</td><td style='border: 1px solid #aaa; padding: 6px;'>其基本原理与焦点小组和其他传统形式的市场调研并没有太大区别。</td><td style='border: 1px solid #aaa; padding: 6px;'>basic principle：基本原理<br>not that different from：与……没有太大不同<br>focus groups：焦点小组<br>traditional forms：传统形式<br>market research：市场调研</td><td style='border: 1px solid #aaa; padding: 6px;'>not that different from 是“not that + 形容词 + from”结构，表示“并不那么不同”，that 为程度副词；is not that different 作谓语。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>A volunteer lies in an fMRI machine and is shown images or video clips.</td><td style='border: 1px solid #aaa; padding: 6px;'>志愿者躺在功能性磁共振成像设备里，并被展示图片或视频片段。</td><td style='border: 1px solid #aaa; padding: 6px;'>volunteer：志愿者<br>fMRI machine：功能性磁共振成像设备<br>images：图像<br>video clips：视频片段</td><td style='border: 1px solid #aaa; padding: 6px;'>and 连接两个并列谓语 lies 和 is shown；is shown 是被动语态，意为“被展示”；video clips 指短视频片段。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>In place of an interview or questionnaire, the subject's response is evaluated by monitoring brain activity.</td><td style='border: 1px solid #aaa; padding: 6px;'>代替访谈或问卷的是，受试者的反应通过监测大脑活动来评估。</td><td style='border: 1px solid #aaa; padding: 6px;'>in place of：代替<br>interview：访谈<br>questionnaire：问卷<br>subject：受试者<br>response：反应<br>evaluate：评估<br>monitor：监测<br>brain activity：大脑活动</td><td style='border: 1px solid #aaa; padding: 6px;'>In place of... 为介词短语作状语，表示“代替……”；主语 the subject's response 为名词短语；is evaluated by... 为被动语态，by 引出施动者；monitoring 为动名词，作介词 by 的宾语。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>fMRI provides real-time images of brain activity, in which different areas "light up" depending on the level of blood flow.</td><td style='border: 1px solid #aaa; padding: 6px;'>功能性磁共振成像提供大脑活动的实时图像，其中不同区域会根据血流水平而“亮起”。</td><td style='border: 1px solid #aaa; padding: 6px;'>provide：提供<br>real-time：实时的<br>light up：亮起，活跃起来<br>depend on：取决于<br>level：水平<br>blood flow：血流</td><td style='border: 1px solid #aaa; padding: 6px;'>in which 引导非限制性定语从句，修饰 images，其中 different areas "light up"；depending on the level of blood flow 为现在分词短语作方式/条件状语，修饰 light up；real-time 为复合形容词。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>This provides clues to the subject's subconscious thought patterns.</td><td style='border: 1px solid #aaa; padding: 6px;'>这为受试者的潜意识思维模式提供了线索。</td><td style='border: 1px solid #aaa; padding: 6px;'>clue：线索<br>subconscious：潜意识的<br>thought patterns：思维模式</td><td style='border: 1px solid #aaa; padding: 6px;'>provide clues to 是固定搭配，意为“为……提供线索”；subconscious thought patterns 为名词短语，subconscious 作定语修饰 thought patterns。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>Neuroscientists know, for example, that the sense of self is associated with an area of the brain known as the medial prefrontal cortex.</td><td style='border: 1px solid #aaa; padding: 6px;'>例如，神经科学家知道，自我感与大脑中一个被称为内侧前额叶皮层的区域有关。</td><td style='border: 1px solid #aaa; padding: 6px;'>neuroscientist：神经科学家<br>sense of self：自我感<br>be associated with：与……有关<br>area：区域<br>known as：被称为<br>medial prefrontal cortex：内侧前额叶皮层</td><td style='border: 1px solid #aaa; padding: 6px;'>主句为 Neuroscientists know that...，that 引导宾语从句；for example 为插入语；be associated with 为固定搭配；known as the medial prefrontal cortex 为过去分词短语作后置定语，修饰 an area。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>A flow of blood to that area while the subject is looking at a particular logo suggests that he or she identifies with that brand.</td><td style='border: 1px solid #aaa; padding: 6px;'>当受试者看着某个特定标志时，流向该区域的血流表明他或她认同该品牌。</td><td style='border: 1px solid #aaa; padding: 6px;'>flow：流动<br>particular：特定的<br>logo：标志<br>suggest：表明<br>identify with：认同<br>brand：品牌</td><td style='border: 1px solid #aaa; padding: 6px;'>主语为 A flow of blood to that area，其中 to that area 为介词短语作后置定语；while the subject is looking at a particular logo 为时间状语从句，插入在主谓之间；suggests 后接 that 引导的宾语从句；identify with 为固定搭配。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>At first, it seemed that only companies in Europe were prepared to admit that they used neuromarketing.</td><td style='border: 1px solid #aaa; padding: 6px;'>起初，似乎只有欧洲的公司愿意承认它们使用了神经营销。</td><td style='border: 1px solid #aaa; padding: 6px;'>at first：起初<br>seem：似乎<br>be prepared to：愿意，准备好<br>admit：承认<br>neuromarketing：神经营销</td><td style='border: 1px solid #aaa; padding: 6px;'>it seemed that... 为形式主语结构，真正主语为 that 从句；were prepared to admit 为“be prepared to do”，意为“愿意做某事”；admit 后接 that 宾语从句。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>Two carmakers, DaimlerChrysler in Germany and Ford's European arm, ran pilot studies in 2003.</td><td style='border: 1px solid #aaa; padding: 6px;'>两家汽车制造商——德国的戴姆勒-克莱斯勒和福特的欧洲分部——在2003年进行了试点研究。</td><td style='border: 1px solid #aaa; padding: 6px;'>carmaker：汽车制造商<br>arm：分部，部门<br>pilot studies：试点研究，初步研究</td><td style='border: 1px solid #aaa; padding: 6px;'>Two carmakers 为主语，DaimlerChrysler in Germany and Ford's European arm 作同位语，补充说明两家汽车制造商；ran 是 run 的过去式，意为“进行，开展”；pilot studies 指试验性研究。</td></tr>
+<tr><td style='border: 1px solid #aaa; padding: 6px;'>But more recently, American companies have become more open about their use of neuromarketing.</td><td style='border: 1px solid #aaa; padding: 6px;'>但最近，美国公司对其神经营销的使用变得更加公开。</td><td style='border: 1px solid #aaa; padding: 6px;'>recently：最近<br>become：变得<br>open：公开的，坦诚的<br>use：使用（此处为名词）<br>neuromarketing：神经营销</td><td style='border: 1px solid #aaa; padding: 6px;'>more recently 为时间状语；have become 为现在完成时，表示变化；be open about 为固定搭配，意为“对……公开/坦率”；their use of neuromarketing 是名词短语作介词 about 的宾语。</td></tr>
+</table>]]></description>
+        <pubDate>Thu, 05 Nov 2026 06:04:38 +0000</pubDate>
+        <guid>1793858678.888956</guid>
+    </item>
 <item>
         <title>[英语] BENTLEY Hospital Catering Service 等多主题 - 2026-11-04 11:22</title>
         <description>&lt;p&gt;⏱ 预计阅读时间：33 分钟 (1650 字符)&lt;/p&gt;
@@ -109,7 +132,6 @@
         <pubDate>Wed, 04 Nov 2026 11:22:19 +0000</pubDate>
         <guid>1793791339.595896</guid>
     </item>
-
 <item>
         <title>[英语] IELTS5 Reading Passage 1 - 2026-08-18 01:16</title>
         <description>&lt;p&gt;⏱ 预计阅读时间：49 分钟 (2416 字符)&lt;/p&gt;
@@ -214,7 +236,6 @@
         <pubDate>Tue, 18 Aug 2026 01:16:51 +0000</pubDate>
         <guid>1787015811.100388</guid>
     </item>
-
 <item>
       <title>Unit 119-121</title>
       <link>https://llwslc.github.io/grammar-club/content/Chapter01.html</link>
@@ -222,7 +243,6 @@
       <guid isPermaLink="false">https://llwslc.github.io/grammar-club/content/Chapter01.html</guid>
       <pubDate>Tue, 18 Aug 2026 00:33:35 +0000</pubDate>
     </item>
-
 <item>
         <title>[英语] IELTS4 Reading Passage 2 等多主题 - 2026-08-11 01:48</title>
         <description>&lt;p&gt;⏱ 预计阅读时间：42 分钟 (2075 字符)&lt;/p&gt;
@@ -247,7 +267,6 @@
         <pubDate>Tue, 11 Aug 2026 01:48:55 +0000</pubDate>
         <guid>1786412935.99761</guid>
     </item>
-
 <item>
         <title>[英语] IELTS5 Reading Passage 1 - 2026-08-20 01:41</title>
         <description>&lt;p&gt;⏱ 预计阅读时间：45 分钟 (2235 字符)&lt;/p&gt;
@@ -352,7 +371,6 @@
         <pubDate>Thu, 20 Aug 2026 01:41:29 +0000</pubDate>
         <guid>1787190089.337149</guid>
     </item>
-
 <item>
       <title>Unit 122-124</title>
       <link>https://llwslc.github.io/grammar-club/content/Chapter01.html</link>
@@ -360,7 +378,6 @@
       <guid isPermaLink="false">https://llwslc.github.io/grammar-club/content/Chapter01.html</guid>
       <pubDate>Thu, 20 Aug 2026 01:04:18 +0000</pubDate>
     </item>
-
 <item>
       <title>Unit 62-64</title>
       <link>https://llwslc.github.io/grammar-club/content/Chapter01.html</link>
@@ -368,7 +385,6 @@
       <guid isPermaLink="false">https://llwslc.github.io/grammar-club/content/Chapter01.html</guid>
       <pubDate>Thu, 13 Aug 2026 00:58:46 +0000</pubDate>
     </item>
-
 <item>
 <title><![CDATA[[英语] Short Practice - A debit card]]></title>
 <link>https://mini-ielts.com/988/listening/a-debit-card</link>
@@ -383,7 +399,6 @@
 <guid isPermaLink="false">https://example.com/1</guid>
 <pubDate>Sun, 11 Oct 2026 14:57:38 +0000</pubDate>
 </item>
-
 <item>
         <title>[英语] IELTS5 Reading Passage 3 等多主题 - 2026-10-11 12:49</title>
         <description>&lt;p&gt;⏱ 预计阅读时间：30 分钟 (1497 字符)&lt;/p&gt;
@@ -408,7 +423,6 @@
         <pubDate>Sun, 11 Oct 2026 12:49:53 +0000</pubDate>
         <guid>1791722993.882587</guid>
     </item>
-
 <item>
         <title>[英语] IELTS5 Reading Passage 2 - 2026-08-31 03:50</title>
         <description>&lt;p&gt;⏱ 预计阅读时间：54 分钟 (2675 字符)&lt;/p&gt;
@@ -433,7 +447,6 @@
         <pubDate>Mon, 31 Aug 2026 03:50:43 +0000</pubDate>
         <guid>1788148243.534905</guid>
     </item>
-
 <item>
       <title>Unit 128-129</title>
       <link>https://llwslc.github.io/grammar-club/content/Chapter01.html</link>
@@ -441,7 +454,6 @@
       <guid isPermaLink="false">https://llwslc.github.io/grammar-club/content/Chapter01.html</guid>
       <pubDate>Mon, 31 Aug 2026 02:20:25 +0000</pubDate>
     </item>
-
 <item>
         <title>[英语] IELTS5 Reading Passage 1 等多主题 - 2026-08-24 01:14</title>
         <description>&lt;p&gt;⏱ 预计阅读时间：60 分钟 (2961 字符)&lt;/p&gt;
@@ -550,7 +562,6 @@
         <pubDate>Mon, 24 Aug 2026 01:14:35 +0000</pubDate>
         <guid>1787534075.876749</guid>
     </item>
-
 <item>
       <title>Unit 125-127</title>
       <link>https://llwslc.github.io/grammar-club/content/Chapter01.html</link>
@@ -558,7 +569,6 @@
       <guid isPermaLink="false">https://llwslc.github.io/grammar-club/content/Chapter01.html</guid>
       <pubDate>Mon, 24 Aug 2026 00:40:38 +0000</pubDate>
     </item>
-
 <item>
         <title>[英语] IELTS5 Reading Passage 3 - 2026-09-21 03:29</title>
         <description>&lt;p&gt;⏱ 预计阅读时间：44 分钟 (2196 字符)&lt;/p&gt;
@@ -660,7 +670,6 @@
         <pubDate>Mon, 21 Sep 2026 03:29:09 +0000</pubDate>
         <guid>1789961349.52388</guid>
     </item>
-
 <item>
         <title>[英语] IELTS4 Reading Passage 3 等多主题 - 2026-08-17 01:19</title>
         <description>&lt;p&gt;⏱ 预计阅读时间：33 分钟 (1607 字符)&lt;/p&gt;
@@ -762,7 +771,6 @@
         <pubDate>Mon, 17 Aug 2026 01:19:27 +0000</pubDate>
         <guid>1786929567.891346</guid>
     </item>
-
 <item>
       <title>Unit 40-41</title>
       <link>https://llwslc.github.io/grammar-club/content/Chapter01.html</link>
@@ -770,7 +778,6 @@
       <guid isPermaLink="false">https://llwslc.github.io/grammar-club/content/Chapter01.html</guid>
       <pubDate>Mon, 17 Aug 2026 00:34:07 +0000</pubDate>
     </item>
-
 <item>
         <title>[英语] IELTS5 Reading Passage 3 - 2026-09-14 03:31</title>
         <description>&lt;p&gt;⏱ 预计阅读时间：28 分钟 (1353 字符)&lt;/p&gt;
@@ -799,7 +806,6 @@
         <pubDate>Mon, 14 Sep 2026 03:31:56 +0000</pubDate>
         <guid>1789356716.527229</guid>
     </item>
-
 <item>
         <title>[英语] IELTS5 Reading Passage 2 等多主题 - 2026-09-07 03:02</title>
         <description>&lt;p&gt;⏱ 预计阅读时间：42 分钟 (2059 字符)&lt;/p&gt;
@@ -908,14 +914,5 @@
         <pubDate>Mon, 07 Sep 2026 03:02:55 +0000</pubDate>
         <guid>1788750175.00605</guid>
     </item>
-
-<item>
-      <title>Unit 130-131</title>
-      <link>https://llwslc.github.io/grammar-club/content/Chapter01.html</link>
-      <description>【介词 50%】形容词+介词 1&amp;2（nice of/sorry about/angry with/afraid of/good at等）</description>
-      <guid isPermaLink="false">https://llwslc.github.io/grammar-club/content/Chapter01.html</guid>
-      <pubDate>Mon, 07 Sep 2026 01:52:57 +0000</pubDate>
-    </item>
-
 </channel>
 </rss>
