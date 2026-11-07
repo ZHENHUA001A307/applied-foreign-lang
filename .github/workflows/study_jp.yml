@@ -2,8 +2,8 @@ name: Study Japanese Feed
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 1 1 *'
+  # schedule: (disabled)
+    # - cron: '0 0 1 2 *'
 
 permissions:
   contents: write
